@@ -1,10 +1,10 @@
 
 
-### [First Day of Big Data Class] For example: Chicken wing-spans in relation to their Jurassic Ancestors
+### [Third Day of Big Data Class] For example: Trying trying trying
 
-[11/02/2017]:
+[11/08/2017]:
 
 **Author:** [Michael Allen]
 
 
-__*Project Description:*__ [Project Description Here] For example: Analyzing present day *Chicken's* wing-spans in comparison to Jurassic era *Dinosaurs.*
+__*Project Description:*__ [still attempting to get github to work for me] For example: Forget the chicken wings - 
